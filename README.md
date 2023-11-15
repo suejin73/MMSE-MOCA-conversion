@@ -1,5 +1,5 @@
 # MMSE-MOCA-conversion
-MMSE and MOCA conversion in neurological populations
+MATLAB codes for MMSE and MOCA conversion in neurological populations
  
 reference: 
 Conversion between the Montreal Cognitive Assessment and the Mini-Mental Status Examination.
