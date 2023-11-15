@@ -16,9 +16,6 @@ function outdata = CONmmsemoca(tmpdata,contype)
 %%%     by Sue-Jin Lin 2023 Nov 15th @ MNI, McGill
 
 
-%%% define data
-% tmpdata = DATA.MMSE;
-
 if contype==1
     %%% convert MMSE to MOCA
 
